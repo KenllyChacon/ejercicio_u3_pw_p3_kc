@@ -1,4 +1,4 @@
-package uce.edu.ec.ejercicio_u3_pw_kc.repository.model;
+package uce.edu.ec.ejercicio_u3_pw_p3_kc.repository.model;
 
 import jakarta.persistence.*;
 
